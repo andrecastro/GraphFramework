@@ -6,10 +6,7 @@ public class GitPractice {
 	 * Out Lab 4
 	 * This class is just for the practice of git.
 	 * 
-	 * 
-	 * 
-	 * 
-	 * 
+	 * Doing a change here
 	 * */
 	
 }
